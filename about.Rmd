@@ -3,7 +3,21 @@ title: "About this site"
 description: |
   Some additional details about the website
 ---
+## About Me
+Hello, my name is **Krish** and I am a rising junior. I attend Metea Valley and I am an avid blog writer. I enjoy playing many sports like swimming, tennis, basketball, hockey, cricket, and badminton. I also love to play video games like Pokémon Emerald, Super Smash Bros, Minecraft, and Fortnite. 
 
+## About the Project
+*Comparing ethic and gender preferences on genres of movies and TV Shows*
+This project is about a comparison of what genres of movies and tv shows are preferred by different ethnicity and genders. This project is using data from the most popular movies and tv show in 2021 across all genres and then looking at what ethnicity and gender favors what movie and tv shows in order to make an accurate conclusion what genre is the most popular among each ethnicity and gender.
+
+### Goals
+  +Getting the data of what movies were watched by which people
+  +Limiting the influence of outside factors that led to an increase in demand for a certain genre(Ex. An year where a nation is celebrating a grand anniversary of their independence, patriotic movies are higher in demand than previous years)
+*Discover correlation between gender/ethnicity and the types of movies and tv shows preferred
+*To establish what is the most popular genre amongst all people regardless of their ethnicity and gender
+‘“This is data science”’  ~ Preceptor
+
+[Kane's Free High School Data Science Bootcamp](https://bootcamp.davidkane.info.)
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
